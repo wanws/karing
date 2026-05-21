@@ -38,7 +38,7 @@ android {
 
     defaultConfig {
         applicationId = "com.nebula.karing"
-        minSdk = 26 // apk size(android:extractNativeLibs):
+        minSdk = 25 // apk size(android:extractNativeLibs):
         // https://github.com/flutter/website/blob/ada9edc19074cce17e92b129eec0759bad7c3c7c/src/content/platform-integration/android/c-interop.md?plain=1#L180
         targetSdk = 35
         versionCode = flutter.versionCode
